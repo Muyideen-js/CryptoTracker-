@@ -1,6 +1,3 @@
-
-4. Open [http://localhost:5173](http://localhost:5173) to view it in your browser
-
 ## 📱 Usage
 
 - **View Cryptocurrencies**: Browse the list of cryptocurrencies on the home page
